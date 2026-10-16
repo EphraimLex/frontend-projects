@@ -14,6 +14,7 @@ journey, exploring different technologies, frameworks, and tools.
 
 ## Live Websites
 
+- [Modern CV](https://ephraimlex.github.io/ModernCV/)
 - [NordicBrew](https://ephraimlex.github.io/NordicBrew/)
 - [Personal Portfolio](https://ephraimlex.github.io/PersonalPortfolio/)
 - [Sjöbo Books](https://ephraimlex.github.io/sjobo-books/)
